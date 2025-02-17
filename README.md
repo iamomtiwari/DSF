@@ -1,5 +1,6 @@
 # DSF
 
+Hugging face model on 10 variables:https://huggingface.co/spaces/iamomtiwari/Nutrition_Regression
 ![image](https://github.com/user-attachments/assets/8f3459ee-d6e3-41f5-9552-d2a63fbe59ae)
 
 
