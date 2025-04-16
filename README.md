@@ -18,15 +18,15 @@ Tools Used: Google Colab, Pandas, NumPy, Matplotlib, Seaborn
 Steps:
 
 
-Imported necessary Python libraries
+-Imported necessary Python libraries
 
-Uploaded and loaded dataset using Pandas
+-Uploaded and loaded dataset using Pandas
 
-Filtered numeric columns for statistical analysis
+-Filtered numeric columns for statistical analysis
 
-Identified and handled missing/null values
+-Identified and handled missing/null values
 
-Dropped irrelevant columns (e.g., food)
+-Dropped irrelevant columns (e.g., food)
 
 
 Phase 2: Data Visualization
@@ -71,31 +71,31 @@ Split data (80% training, 20% testing)
 Models Implemented:
 
 
-Support Vector Regressor (SVR)
+-Support Vector Regressor (SVR)
 
 MSE: 0.0034 | R²: ~1.0
 
 Best performer – highly robust and accurate
 
-Linear Regression
+-Linear Regression
 
 MSE: ~0.0 | R²: 1.0
 
 Perfect fit, ideal for interpretability
 
-Random Forest Regressor
+-Random Forest Regressor
 
 MSE: 22.18 | R²: 0.9990
 
 Excellent balance of accuracy and stability
 
-Decision Tree Regressor
+-Decision Tree Regressor
 
 MSE: 141.96 | R²: 0.9937
 
 Good performance, but prone to slight overfitting
 
-K-Nearest Neighbors (KNN)
+-K-Nearest Neighbors (KNN)
 
 MSE: 1554.97 | R²: 0.9308
 
@@ -106,23 +106,25 @@ Underperformed due to high dimensionality issues
 Key Highlights
 
 
-Hands-on with exploratory data analysis (EDA) and visualization using Seaborn and Matplotlib
+-Hands-on with exploratory data analysis (EDA) and visualization using Seaborn and Matplotlib
 
-Applied both normalization and standardization to prepare data for modeling
+-Applied both normalization and standardization to prepare data for modeling
 
-Evaluated multiple regression algorithms with performance metrics like MSE and R²
+-Evaluated multiple regression algorithms with performance metrics like MSE and R²
 
-Identified SVR and Linear Regression as top performers based on accuracy and simplicity
+-Identified SVR and Linear Regression as top performers based on accuracy and simplicity
 
 Skills Demonstrated
-Data Analytics:
+
+
+-Data Analytics:
 Data wrangling, filtering, cleaning
 
 Exploratory visualizations and interpretation
 
 Correlation analysis
 
-Data Science:
+-Data Science:
 Feature engineering
 
 Normalization & standardization
@@ -131,7 +133,7 @@ Data splitting and preprocessing
 
 Interpreting statistical outputs
 
-Machine Learning:
+-Machine Learning:
 Regression modeling with multiple algorithms
 
 Performance evaluation (MSE, R²)
