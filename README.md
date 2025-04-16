@@ -3,7 +3,7 @@ Hugging face model on 10 variables:https://huggingface.co/spaces/iamomtiwari/Nut
 
 Food Nutrition & Mental Health Analysis
 
-This project demonstrates end-to-end data analytics and machine learning skills, starting from data preprocessing and visualization to regression modeling and evaluation. The objective was to explore the relationship between food nutrition and mental health indicators using a rich dataset sourced from Kaggle.
+This project demonstrates end-to-end data analytics and machine learning skills, starting from data preprocessing and visualization to regression modeling and evaluation for our subject Data Sceince Foundation. The objective was to explore the relationship between food nutrition and mental health indicators using a rich dataset sourced from Kaggle.
 
 Project Overview
 Phase 1: Data Acquisition & Preprocessing
