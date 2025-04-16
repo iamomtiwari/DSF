@@ -6,12 +6,17 @@ Food Nutrition & Mental Health Analysis
 This project demonstrates end-to-end data analytics and machine learning skills, starting from data preprocessing and visualization to regression modeling and evaluation for our subject Data Sceince Foundation. The objective was to explore the relationship between food nutrition and mental health indicators using a rich dataset sourced from Kaggle.
 
 Project Overview
+
 Phase 1: Data Acquisition & Preprocessing
+
 Dataset: Food Nutrition dataset from Kaggle
+
 
 Tools Used: Google Colab, Pandas, NumPy, Matplotlib, Seaborn
 
+
 Steps:
+
 
 Imported necessary Python libraries
 
@@ -23,7 +28,10 @@ Identified and handled missing/null values
 
 Dropped irrelevant columns (e.g., food)
 
+
 Phase 2: Data Visualization
+
+
 Used Matplotlib and Seaborn to understand patterns and relationships in the data:
 
 Bar Chart: Visualized nutrient levels across food categories
@@ -37,13 +45,18 @@ Seaborn Plots: Provided enhanced visuals including bar plots, scatter plots, and
 Correlation Heatmap: Visualized strength of relationships between variables
 
 Phase 3: Feature Scaling
+
+
 Normalization (Min-Max Scaling): Rescaled data to [0, 1]
 
 Standardization: Centered data using Z-score (mean = 0, std = 1)
 
 Tools: MinMaxScaler, StandardScaler from Scikit-learn
 
+
 Phase 4: Model Development & Training
+
+
 Objective: Predict Nutrition Density (a continuous variable) using regression techniques
 
 Tools: Scikit-learn, Train-Test Split
@@ -54,7 +67,10 @@ Dropped irrelevant features
 
 Split data (80% training, 20% testing)
 
+
 Models Implemented:
+
+
 Support Vector Regressor (SVR)
 
 MSE: 0.0034 | R²: ~1.0
@@ -85,7 +101,11 @@ MSE: 1554.97 | R²: 0.9308
 
 Underperformed due to high dimensionality issues
 
+
+
 Key Highlights
+
+
 Hands-on with exploratory data analysis (EDA) and visualization using Seaborn and Matplotlib
 
 Applied both normalization and standardization to prepare data for modeling
